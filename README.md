@@ -1,3 +1,3 @@
-# SibGuys
+# .github
 
-Три богатыря
+Special repository for github features
